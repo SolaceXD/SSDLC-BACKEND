@@ -1,5 +1,5 @@
 <?php
-
+// filepath: c:\Users\Solace\Documents\repositorio\SSDLC-BACKEND-main\config\cors.php
 return [
     'paths' => ['api/*', 'sanctum/csrf-cookie'],
     'allowed_methods' => ['*'],
